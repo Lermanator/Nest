@@ -1,0 +1,30 @@
+.footercontain {
+    background-color: RGB(34, 37, 41);
+    min-height: 10%;
+    position:absolute;
+    padding-top: .7%;
+    left:0;
+    bottom:0;
+    right:0;
+}
+
+.imagelogos{
+    font-size: 2em;
+    color:RGB(152, 154, 156)
+}
+
+.contactrow {
+    margin: 0;
+}
+
+h5 {
+    color: RGB(241, 210, 71);
+    font-size: 1.8em;
+    font-family: Helvetica;
+    text-align: center;
+}
+p {
+    color: RGB(152, 154, 156);
+    font-family: Helvetica;
+    text-align: center;
+}

@@ -1,0 +1,36 @@
+.imgdiv {
+  text-align: center;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.rowStyle {
+  margin-top: 2.5em;
+  margin-bottom: 2.5em;
+}
+
+.Top {
+  padding-top: 1em;
+}
+
+h2 {
+  text-align: center;
+  font-family: Helvetica;
+  text-align: center;
+}
+
+/* .lodge {
+  animation: App-logo-spin 10s infinite;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+    height: 0%;
+    width: 0%;
+  }
+  to {
+    transform: rotate(360deg);
+    height: 100%;
+    width: 100%;
+  }
+} */
